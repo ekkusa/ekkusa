@@ -9,4 +9,4 @@
 [![Android 13](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 
 ## 📱 Devices in use
-[![XZ2]](https://www.mi.com/global/mi-8/)
+[![XZ2](https://img.shields.io/static/v1?label=SONY&message=XZ2&color=lightgrey)](https://www.gsmarena.com/sony_xperia_xz2-9081.php)
