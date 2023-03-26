@@ -9,4 +9,4 @@
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 
 ## 📱 Devices in use
-[![XZ2](https://img.shields.io/badge/Sony%20XZ2-3ddc84?style=flat-square&logo=sony&logoColor=ffffff)](https://www.gsmarena.com/sony_xperia_xz2-9081.php)
+[![XZ2](https://img.shields.io/badge/Sony%20XZ2-3ddc84?style=for-the-badge&logo=appveyor&logo=sony&logoColor=ffffff)](https://www.gsmarena.com/sony_xperia_xz2-9081.php)
