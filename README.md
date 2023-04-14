@@ -11,4 +11,4 @@
 ## Welcome to my Profile
 Hello! I'm exer, a highschool student. I mainly do development for Sony TAMA, that includes XZ2 and XZ3, there is also the XZ2p and XZ2c but I think I'll be developing for only those 2 devices. I also do some slight huawei development, but it's kind of bricked at the moment so development is halted.
 
-If you'd like to see where I do my development at, then you should checkout @Miyo
+If you'd like to see where I do my development at, then you should checkout https://github.com/Miiyo
